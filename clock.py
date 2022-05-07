@@ -1,6 +1,3 @@
-# Name: Fairouz Magdy Ali Elsayed Ogail
-# section: 3
-
 from OpenGL.GL import *
 from OpenGL.GLU import *
 from OpenGL.GLUT import *
